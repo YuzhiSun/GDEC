@@ -8,6 +8,8 @@ dglNet_batch_gene.py is used for constructing embedding features of genes.
 DECpredictValid.py is used for predict the result.  
 ## Environment
 For details environment.yml  
+## Data
+The data used in paper can be obtained on https://drive.google.com/file/d/1o0JOBVzTp7GdgbCi3YCKU4mWrh8fDiPg/view?usp=drive_link
 ## Pipline
 1. Constructing GCN Network Nodes and Relationships Using dglNet.py .
 2. Constructing GCN embedding features with dglNet_batch_gene.py .
